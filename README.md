@@ -48,3 +48,4 @@ else{
     else if(flag==2)
     cout<<"NO"<<endl;
   }}
+thankyou
